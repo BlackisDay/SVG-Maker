@@ -83,7 +83,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 - Create an non-deployed application that invokes a “node index.js” in the command line to generate a logo and save it as a SVG file.
 - Learned the JavaScript testing framework "Jest".
 ### Continued Development:
-1. Contniue creating SVG files to practice
+1. Continue creating SVG files to practice
 2. Add more user prompts to create more possibilities among a rendered SVG image.
 ## License & Copyright ©
   
